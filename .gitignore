@@ -9,6 +9,17 @@ release_backup/*
 release_backup/
 
 
+MacOSX10.1.5.sdk/*
+MacOSX10.10.sdk/*
+MacOSX10.2.8.sdk/*
+MacOSX10.3.0.sdk/*
+MacOSX10.3.9.sdk/*
+MacOSX10.4u.sdk/*
+#MacOSX10.5.sdk
+MacOSX10.6.sdk/*
+MacOSX10.7.sdk/*
+MacOSX10.8.sdk/*
+MacOSX10.9.sdk/*
 
 MacOSX10.1.5.sdk/
 MacOSX10.10.sdk/
